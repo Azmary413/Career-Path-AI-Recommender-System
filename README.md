@@ -1,9 +1,6 @@
-# Note Please:
-Before using any other file you have to run the Studend recommendation notebook to get model.pkl and scaler.pkl.
+# Career-Path-AI-Recommender-System
 
-# Dataset Description:
-
-download link:: https://www.kaggle.com/datasets/noorsaeed/student-studeis-recommendation
+![banner](https://github.com/Azmary413/Career-Path-AI-Recommender-System/blob/main/Career-Path-AI%20home%20page.jpg)
 
 This dataset contains information about students enrolled in an academy, including their personal details, academic scores, extracurricular activities, and career aspirations.
 
@@ -44,4 +41,4 @@ biology_score: Score achieved by the student in biology.
 
 english_score: Score achieved by the student in English.
 geography_score: Score achieved by the student in geography.
-# Career-Path-AI-Recommender-System
+
